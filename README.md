@@ -1,3 +1,3 @@
 A self reproducing typescript file
 
-To execute `ts-node self_reproducing.ts`
+To execute `ts-node self_reproducing<number>.ts`

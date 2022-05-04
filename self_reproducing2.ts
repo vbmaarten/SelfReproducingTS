@@ -1,0 +1,1 @@
+[")))''(nioj.)(esrever.)''(tilps.s+']'+)43(edoCrahCmorf.gnirtS+s+)43(edoCrahCmorf.gnirtS+'['(gol.elosnoc >= s(hcaErof."].forEach(s => console.log('['+String.fromCharCode(34)+s+String.fromCharCode(34)+']'+s.split('').reverse().join('')))
